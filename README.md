@@ -83,9 +83,27 @@
 
 ###
 
-<br clear="both">
+<h2> Hi, I'm King Huynh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://i.pinimg.com/236x/04/a4/7c/04a47c333f8b680b20796d2520b1cfbe.jpg" width="230">
 
-<img src="https://raw.githubusercontent.com/huynhbaoking112/huynhbaoking112/output/snake.svg" alt="Snake animation" />
+
+
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const King = {
+  pronouns: "he",
+  code: [Javascript, Typescript, HTML, CSS, Dart, Solidity, Python, NodeJS ],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+ challenge: "I am doing the #100DaysOfCode challenge focused on Flutter and Mobile"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
 
 ###
 
