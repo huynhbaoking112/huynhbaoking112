@@ -364,14 +364,14 @@ const KingHuynh = {
 </div>
 
 <!-- Snake Animation -->
-<div align="center">
+<!-- <div align="center">
   <br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
   </picture>
-</div>
+</div> -->
 
 <!-- Animated Footer -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling"/>
